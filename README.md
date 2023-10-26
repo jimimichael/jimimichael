@@ -2,7 +2,7 @@
 - 😄 I am 'Jimi with 👀 interest in Data Science, Data Analysis, Data Visualization, Machine learning and Artificial intelligence.
 - 🔭 I am currently working on building ML projects that scale.
 - 🌱 I am currently learning and building projects with structured and unstructured datasets using Python, SQL, and Tableau
-- 🌱 Learning profile: https://app.datacamp.com/profile/olujimim
+- 🌱 Portfolio: [https://app.datacamp.com/profile/olujimim](https://www.datacamp.com/portfolio/OlujimiMichael)
 - 💬 Ask me about programming with Data Analytics, Machine Learning and Data Science.
 - 📫 Reach me on Linkedin: Olujimi Michael (linkedin.com/in/olujimi-michael) or via email(olujimim@gmail.com).
 - 😄 Pronouns: He/Him
